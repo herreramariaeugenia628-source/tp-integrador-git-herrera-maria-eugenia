@@ -1,11 +1,15 @@
-# Trabajo Practico Integrador
+# Trabajo Práctico Integrador - Git y GitHub
 
-## Descripcion
+## Descripción del Proyecto
+Este proyecto es el Trabajo Práctico Integrador de control de versiones correspondiente a María Eugenia Herrera. Contiene documentación académica, guías sobre el uso de herramientas Git y la plataforma GitHub, además de la resolución de los ejercicios planteados en clase.
 
-Este proyecto es el
-Trabajo Practico Integrador de Git y GitHub de Maria Eugenia Herrera.
+## Objetivo
+El objetivo principal de este proyecto es poner en práctica los conceptos fundamentales de Git, incluyendo la creación de repositorios, registro de historial mediante commits, organización de carpetas y el uso de herramientas de colaboración en GitHub como la gestión de Issues y el seguimiento de mejoras de software.
 
-Contenido academico de interes: Documentacion sobre herramientas de control
-de versiones Git y la plataforma GitHub.
+## Estructura del Proyecto
+* **`proyecto/`**: Carpeta principal que contiene los archivos de código fuente y ejercicios prácticos de la entrega.
+* **`ENTREGA.md`**: Informe detallado con los datos personales, comandos utilizados, proceso de desarrollo y conclusiones.
+* **`README.md`**: Este archivo, que sirve de presentación y guía rápida del repositorio.
 
-Actualizacion de mejora: Se expanden las especificaciones tecnicas en cumplimiento con la Issue Numero 1.
+## Estado del Proyecto
+* **Estado:** 🚀 Completado y Aprobado.
